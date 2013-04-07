@@ -4,7 +4,7 @@
   <title><![CDATA[日志]]></title>
   <link href="http://qiuceo.github.com/atom.xml" rel="self"/>
   <link href="http://qiuceo.github.com/"/>
-  <updated>2013-04-07T23:35:00+08:00</updated>
+  <updated>2013-04-07T23:42:49+08:00</updated>
   <id>http://qiuceo.github.com/</id>
   <author>
     <name><![CDATA[QIU PING]]></name>
@@ -12,6 +12,17 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[太费劲了]]></title>
+    <link href="http://qiuceo.github.com/blog/2013/04/07/onehour/"/>
+    <updated>2013-04-07T23:39:00+08:00</updated>
+    <id>http://qiuceo.github.com/blog/2013/04/07/onehour</id>
+    <content type="html"><![CDATA[<p>折腾了得俩小时才把ssh key的问题解决掉，刚才一直是提示permission denied。</p>
+
+<p>再来一篇试试!</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[试试改里面的行吗]]></title>
