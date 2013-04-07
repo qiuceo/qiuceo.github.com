@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[日志]]></title>
+  <link href="http://qiuceo.github.com/atom.xml" rel="self"/>
+  <link href="http://qiuceo.github.com/"/>
+  <updated>2013-04-07T23:35:00+08:00</updated>
+  <id>http://qiuceo.github.com/</id>
+  <author>
+    <name><![CDATA[QIU PING]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[试试改里面的行吗]]></title>
+    <link href="http://qiuceo.github.com/blog/2013/04/07/test/"/>
+    <updated>2013-04-07T22:19:00+08:00</updated>
+    <id>http://qiuceo.github.com/blog/2013/04/07/test</id>
+    <content type="html"><![CDATA[<p>不知道octopress能插入图片吗?</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[送给自己的几句话]]></title>
+    <link href="http://qiuceo.github.com/blog/2013/04/06/song-gei-zi-ji-de-ji-ju-hua/"/>
+    <updated>2013-04-06T15:03:00+08:00</updated>
+    <id>http://qiuceo.github.com/blog/2013/04/06/song-gei-zi-ji-de-ji-ju-hua</id>
+    <content type="html"><![CDATA[<p>贪多嚼不烂</p>
+
+<p>认准目标，坚定不移地前行</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[My first blog]]></title>
+    <link href="http://qiuceo.github.com/blog/2013/04/06/my-first-blog/"/>
+    <updated>2013-04-06T14:42:00+08:00</updated>
+    <id>http://qiuceo.github.com/blog/2013/04/06/my-first-blog</id>
+    <content type="html"><![CDATA[<p>第一次使用octopress发布我的blog，从安装到成功发布总共算起来用了大约5小时。</p>
+
+<p>本想再去申请一个虚拟主机，现在觉得不需要了，github已经完全能够满足我的日常需求。</p>
+
+<p>希望能坚持下去。</p>
+]]></content>
+  </entry>
+  
+</feed>
